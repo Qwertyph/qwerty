@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav{
+    background-color: rgb(175, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+ border: 3px solid rgb(0, 255, 21); 
+ margin:20px;  
+ padding: 10px;
+ border-radius: 20px;
+}
+
+h1{
+    color: blueviolet;
+}
+
+footer{
+    background-color: burlywood;
+}
+
+p{
+    background-color: rgb(178, 230, 89);
+}
+
+main{
+    margin: 20px;
+}
